@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Palak85/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
@@ -101,5 +102,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Palak85/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Palak85/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
