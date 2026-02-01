@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<int> runningSum(vector<int>& nums) {
+        int n = nums.size();
         vector<int> ans;
         int sum = 0;
-        int n = nums.size();
         for(int i=0; i<n; i++){
             sum = sum + nums[i];
             ans.push_back(sum);
