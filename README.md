@@ -40,6 +40,7 @@
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Palak85/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Palak85/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Palak85/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Palak85/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
