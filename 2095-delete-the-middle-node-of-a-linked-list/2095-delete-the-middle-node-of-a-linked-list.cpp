@@ -14,19 +14,34 @@ public:
         if(head == nullptr || head->next == nullptr){
             return nullptr;
         }
+        // ListNode* slow = head;
+        // ListNode* fast = head;
+        // ListNode* prev = nullptr;
+        // while(fast != nullptr && fast->next != nullptr){
+        //     prev = slow;
+        //     slow = slow->next;
+        //     fast = fast->next->next;
+        // }
+        
+        // prev->next = slow->next;
+        // delete slow;
+        
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = nullptr;
-        while(fast != nullptr && fast->next != nullptr){
-            prev = slow;
+        while(fast != nullptr && fast->next != nullptr){ 
             slow = slow->next;
             fast = fast->next->next;
         }
-        
-        prev->next = slow->next;
-        delete slow;
-        
-
+        ListNode* temp = slow->next; 
+        slow->next = nullptr; 
+        ListNode* temp1 = head; 
+        ListNode* temp2 = head->next; 
+        while(temp2->next != nullptr){ 
+            temp2 = temp2->next; 
+            temp1 = temp1->next; 
+        } 
+        temp1->next = temp; 
+        delete temp2;
         return head;
     }
 };
