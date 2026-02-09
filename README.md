@@ -157,6 +157,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Palak85/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Palak85/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Palak85/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Palak85/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
