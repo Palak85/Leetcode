@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Palak85/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -217,4 +220,12 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
