@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Palak85/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Palak85/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Palak85/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -192,6 +195,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Palak85/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Palak85/Leetcode/tree/master/0199-binary-tree-right-side-view) |
