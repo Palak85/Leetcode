@@ -30,10 +30,9 @@ public:
             return new TreeNode(head->val);
         }
 
+        ListNode* prev = nullptr;
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = nullptr;
-
         while(fast != nullptr && fast->next != nullptr){
             prev = slow;
             slow = slow->next;
