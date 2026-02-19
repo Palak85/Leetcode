@@ -80,6 +80,7 @@
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0226-invert-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Palak85/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0226-invert-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [0226-invert-binary-tree](https://github.com/Palak85/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +264,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Palak85/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -268,4 +273,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
