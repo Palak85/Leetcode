@@ -24,6 +24,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
