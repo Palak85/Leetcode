@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Palak85/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Palak85/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak85/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Palak85/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
@@ -135,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Palak85/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
