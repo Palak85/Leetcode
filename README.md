@@ -23,6 +23,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Palak85/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
@@ -136,6 +137,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Palak85/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -309,4 +311,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
