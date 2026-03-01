@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Palak85/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Palak85/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
