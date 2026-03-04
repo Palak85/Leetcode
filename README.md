@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Palak85/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Palak85/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak85/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -171,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palak85/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
