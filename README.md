@@ -15,6 +15,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Palak85/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Palak85/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Palak85/Leetcode/tree/master/0229-majority-element-ii) |
@@ -101,6 +102,7 @@
 | [0020-valid-parentheses](https://github.com/Palak85/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Palak85/Leetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Palak85/Leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -119,6 +121,7 @@
 | [0147-insertion-sort-list](https://github.com/Palak85/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Palak85/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Palak85/Leetcode/tree/master/0229-majority-element-ii) |
@@ -307,6 +310,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
