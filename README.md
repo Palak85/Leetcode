@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Palak85/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Palak85/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Palak85/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -339,4 +340,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Palak85/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Palak85/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
