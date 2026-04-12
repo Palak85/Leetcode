@@ -18,8 +18,6 @@ public:
             return targetSum == root->val;
         }
 
-        int remainingSum = targetSum - root->val;
-
-        return hasPathSum(root->left, remainingSum) || hasPathSum(root->right, remainingSum);
+        return hasPathSum(root->left , targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
     }
 };
