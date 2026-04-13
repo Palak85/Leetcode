@@ -83,6 +83,7 @@
 | [0009-palindrome-number](https://github.com/Palak85/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/Palak85/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
