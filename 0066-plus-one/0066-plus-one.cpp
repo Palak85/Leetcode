@@ -14,5 +14,6 @@ public:
         vector<int> result(n+1, 0);
         result[0] = 1;
         return result;
+        
     }
 };
