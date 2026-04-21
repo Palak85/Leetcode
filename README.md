@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palak85/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Palak85/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
@@ -155,6 +156,7 @@
 | [0015-3sum](https://github.com/Palak85/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Palak85/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Palak85/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Palak85/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Palak85/Leetcode/tree/master/0147-insertion-sort-list) |
@@ -414,5 +416,6 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Palak85/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Palak85/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
