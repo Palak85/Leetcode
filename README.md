@@ -421,4 +421,8 @@
 | [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Palak85/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Palak85/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
