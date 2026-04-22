@@ -151,6 +151,7 @@
 | [0058-length-of-last-word](https://github.com/Palak85/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Palak85/Leetcode/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
@@ -435,6 +436,7 @@
 | [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Palak85/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
+| [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
 ## Database
 |  |
 | ------- |
