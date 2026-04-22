@@ -92,6 +92,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Palak85/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Palak85/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Palak85/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Palak85/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak85/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Palak85/Leetcode/tree/master/0182-duplicate-emails) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
