@@ -64,6 +64,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Palak85/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@
 | [0009-palindrome-number](https://github.com/Palak85/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Palak85/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
@@ -151,6 +153,7 @@
 | [0020-valid-parentheses](https://github.com/Palak85/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Palak85/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Palak85/Leetcode/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
@@ -261,6 +264,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
