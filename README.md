@@ -104,6 +104,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Palak85/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Palak85/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Palak85/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Palak85/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Palak85/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Palak85/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Palak85/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Palak85/Leetcode/tree/master/0206-reverse-linked-list) |
