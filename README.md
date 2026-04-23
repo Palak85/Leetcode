@@ -56,6 +56,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Palak85/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
@@ -153,6 +154,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Palak85/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -486,4 +490,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
