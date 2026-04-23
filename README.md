@@ -29,6 +29,7 @@
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Palak85/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak85/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Palak85/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -147,6 +148,7 @@
 | [0063-unique-paths-ii](https://github.com/Palak85/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/Palak85/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak85/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
