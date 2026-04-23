@@ -52,6 +52,7 @@
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/Palak85/Leetcode/tree/master/1089-duplicate-zeros) |
