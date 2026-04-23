@@ -57,6 +57,7 @@
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Palak85/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
@@ -155,6 +156,7 @@
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
