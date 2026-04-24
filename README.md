@@ -138,6 +138,7 @@
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Palak85/Leetcode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -188,6 +189,7 @@
 | [0344-reverse-string](https://github.com/Palak85/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Palak85/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -244,6 +246,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Palak85/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Palak85/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
