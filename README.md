@@ -128,6 +128,7 @@
 | [0279-perfect-squares](https://github.com/Palak85/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Palak85/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
+| [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
@@ -146,6 +147,7 @@
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Palak85/Leetcode/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
