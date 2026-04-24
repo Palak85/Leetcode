@@ -51,6 +51,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Palak85/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Palak85/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -129,6 +130,7 @@
 | [0326-power-of-three](https://github.com/Palak85/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Palak85/Leetcode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -181,6 +183,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Palak85/Leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
