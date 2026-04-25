@@ -335,6 +335,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Palak85/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Palak85/Leetcode/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -596,4 +597,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Palak85/Leetcode/tree/master/0812-largest-triangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Palak85/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
