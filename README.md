@@ -68,6 +68,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Palak85/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/Palak85/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Palak85/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Palak85/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Palak85/Leetcode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Palak85/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
@@ -587,4 +589,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Palak85/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
