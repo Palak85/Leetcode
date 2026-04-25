@@ -65,6 +65,7 @@
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Palak85/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Palak85/Leetcode/tree/master/0896-monotonic-array) |
@@ -332,6 +333,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Palak85/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
