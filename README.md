@@ -67,6 +67,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Palak85/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0806-number-of-lines-to-write-string](https://github.com/Palak85/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Palak85/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
@@ -215,6 +216,7 @@
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0806-number-of-lines-to-write-string](https://github.com/Palak85/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
