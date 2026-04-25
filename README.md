@@ -53,6 +53,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Palak85/Leetcode/tree/master/0414-third-maximum-number) |
+| [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Palak85/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -270,6 +271,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Palak85/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
@@ -326,6 +328,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/Palak85/Leetcode/tree/master/0400-nth-digit) |
+| [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -519,6 +522,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
@@ -570,4 +574,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Palak85/Leetcode/tree/master/0204-count-primes) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Palak85/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
