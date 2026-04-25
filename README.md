@@ -59,6 +59,7 @@
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
@@ -109,6 +110,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -210,6 +212,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Palak85/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
