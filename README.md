@@ -54,6 +54,7 @@
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Palak85/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Palak85/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Palak85/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -185,6 +186,7 @@
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Palak85/Leetcode/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Palak85/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -523,6 +525,7 @@
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Palak85/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
 ## Database
 |  |
 | ------- |
