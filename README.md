@@ -73,6 +73,7 @@
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [1046-last-stone-weight](https://github.com/Palak85/Leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Palak85/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1470-shuffle-the-array](https://github.com/Palak85/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -254,6 +255,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palak85/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Palak85/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -568,6 +570,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 ## Rolling Hash
 |  |
 | ------- |
