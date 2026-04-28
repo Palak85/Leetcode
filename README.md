@@ -80,6 +80,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Palak85/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -118,6 +119,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
+| [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -265,6 +267,7 @@
 | [0229-majority-element-ii](https://github.com/Palak85/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Palak85/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
+| [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
