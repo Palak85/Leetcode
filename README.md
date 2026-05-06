@@ -141,6 +141,7 @@
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Palak85/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Palak85/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Palak85/Leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
@@ -613,4 +614,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Palak85/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak85/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Palak85/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
