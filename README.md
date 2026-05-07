@@ -17,6 +17,7 @@
 | [0039-combination-sum](https://github.com/Palak85/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Palak85/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Palak85/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Palak85/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Palak85/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Palak85/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Palak85/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Palak85/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Palak85/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -213,6 +215,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Palak85/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Palak85/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Palak85/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Palak85/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
@@ -248,6 +251,7 @@
 | [0016-3sum-closest](https://github.com/Palak85/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Palak85/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Palak85/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Palak85/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Palak85/Leetcode/tree/master/0147-insertion-sort-list) |
