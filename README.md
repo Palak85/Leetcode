@@ -118,6 +118,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Palak85/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Palak85/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Palak85/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Palak85/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Palak85/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Palak85/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@
 | [0204-count-primes](https://github.com/Palak85/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/Palak85/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Palak85/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Palak85/Leetcode/tree/master/0292-nim-game) |
@@ -200,6 +202,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak85/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Palak85/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/Palak85/Leetcode/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/Palak85/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Palak85/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
@@ -520,6 +523,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palak85/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Palak85/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Palak85/Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
