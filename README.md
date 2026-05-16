@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/Palak85/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Palak85/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Palak85/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Palak85/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Palak85/Leetcode/tree/master/0066-plus-one) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Palak85/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Palak85/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Palak85/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Palak85/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Palak85/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Palak85/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Palak85/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Palak85/Leetcode/tree/master/0397-integer-replacement) |
