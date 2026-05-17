@@ -600,6 +600,7 @@
 | [0511-game-play-analysis-i](https://github.com/Palak85/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Palak85/Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Palak85/Leetcode/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Palak85/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Palak85/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Palak85/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Combinatorics
