@@ -201,6 +201,7 @@
 | [0062-unique-paths](https://github.com/Palak85/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Palak85/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Palak85/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Palak85/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Palak85/Leetcode/tree/master/0120-triangle) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -466,6 +468,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palak85/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -516,6 +519,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Palak85/Leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -588,6 +592,7 @@
 | [0077-combinations](https://github.com/Palak85/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Palak85/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Palak85/Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Palak85/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
