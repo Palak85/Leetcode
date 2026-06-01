@@ -104,6 +104,7 @@
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Palak85/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/Palak85/Leetcode/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/Palak85/Leetcode/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
@@ -601,6 +602,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Palak85/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Palak85/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Palak85/Leetcode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/Palak85/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Palak85/Leetcode/tree/master/0494-target-sum) |
 ## Database
 |  |
