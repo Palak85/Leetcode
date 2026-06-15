@@ -643,6 +643,7 @@
 | [0620-not-boring-movies](https://github.com/Palak85/Leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Palak85/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Palak85/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Palak85/Leetcode/tree/master/1075-project-employees-i) |
 | [1179-reformat-department-table](https://github.com/Palak85/Leetcode/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Palak85/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Palak85/Leetcode/tree/master/1407-top-travellers) |
