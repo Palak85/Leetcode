@@ -7,8 +7,9 @@ public:
         for(int i=0; i<n; i++){
             if(count == 0){
                 max = nums[i];
+                count = 1;
             }
-            if(nums[i] == max){
+            else if(max == nums[i]){
                 count++;
             }
             else{
