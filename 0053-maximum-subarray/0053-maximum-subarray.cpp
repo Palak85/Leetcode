@@ -8,6 +8,6 @@ public:
             sum=max(sum+nums[i],nums[i]);
             maxsum=max(maxsum,sum);
         }
-    return maxsum;
+        return maxsum;
     }
 };
