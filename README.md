@@ -89,6 +89,7 @@
 | [1470-shuffle-the-array](https://github.com/Palak85/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Palak85/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Palak85/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
