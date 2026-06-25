@@ -18,7 +18,7 @@ public:
             else{
                 count = 1;
             }
-            longest = max(longest, count);
+            longest = max(count, longest);
         }
         return longest;
     }
