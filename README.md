@@ -87,6 +87,7 @@
 | [1046-last-stone-weight](https://github.com/Palak85/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Palak85/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Palak85/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Palak85/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -302,6 +303,7 @@
 | [0912-sort-an-array](https://github.com/Palak85/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Palak85/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -395,6 +398,7 @@
 | [0704-binary-search](https://github.com/Palak85/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Palak85/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Palak85/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 |  |
 | ------- |
