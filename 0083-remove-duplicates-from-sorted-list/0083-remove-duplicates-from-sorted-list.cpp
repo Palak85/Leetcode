@@ -15,11 +15,11 @@ public:
         while(curr != nullptr && curr->next != nullptr){
             if(curr->val == curr->next->val){
                 ListNode* temp = curr->next;
-                curr->next = temp->next;
+                curr->next = curr->next->next;
                 delete temp;
             }
             else{
-            curr = curr->next;
+                curr = curr->next;
             }
         }
         return head;
