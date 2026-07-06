@@ -249,6 +249,7 @@
 | [0079-word-search](https://github.com/Palak85/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Palak85/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Palak85/Leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Palak85/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Palak85/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Palak85/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -349,6 +350,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Palak85/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Palak85/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Palak85/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Palak85/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Palak85/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Palak85/Leetcode/tree/master/0143-reorder-list) |
