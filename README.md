@@ -128,6 +128,7 @@
 | [0141-linked-list-cycle](https://github.com/Palak85/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Palak85/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Palak85/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Palak85/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Palak85/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Palak85/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -157,6 +158,7 @@
 | [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Palak85/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Palak85/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Palak85/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Palak85/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
@@ -356,6 +358,7 @@
 | [0143-reorder-list](https://github.com/Palak85/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Palak85/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Palak85/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Palak85/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Palak85/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Palak85/Leetcode/tree/master/0287-find-the-duplicate-number) |
