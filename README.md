@@ -113,6 +113,7 @@
 | [0231-power-of-two](https://github.com/Palak85/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Palak85/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Palak85/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Palak85/Leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Palak85/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Palak85/Leetcode/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -228,6 +229,7 @@
 | [0264-ugly-number-ii](https://github.com/Palak85/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Palak85/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Palak85/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Palak85/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Palak85/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
