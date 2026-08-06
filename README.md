@@ -725,4 +725,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Palak85/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
