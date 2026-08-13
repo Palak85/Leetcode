@@ -96,6 +96,7 @@
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Palak85/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -149,6 +150,7 @@
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Palak85/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -281,6 +283,7 @@
 | [0942-di-string-match](https://github.com/Palak85/Leetcode/tree/master/0942-di-string-match) |
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Palak85/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -425,6 +428,7 @@
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Palak85/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Number Theory
 |  |
 | ------- |
