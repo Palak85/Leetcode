@@ -94,6 +94,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Palak85/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -147,6 +148,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Palak85/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -181,6 +183,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/Palak85/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Palak85/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Palak85/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Palak85/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
@@ -324,6 +327,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
