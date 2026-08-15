@@ -94,6 +94,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Palak85/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Palak85/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Palak85/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Palak85/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -150,6 +151,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/Palak85/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Palak85/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Palak85/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -204,6 +206,7 @@
 | [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Palak85/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Palak85/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Palak85/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -719,6 +723,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Palak85/Leetcode/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Palak85/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Ordered Set
 |  |
 | ------- |
