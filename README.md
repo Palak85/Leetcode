@@ -87,6 +87,7 @@
 | [1046-last-stone-weight](https://github.com/Palak85/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Palak85/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Palak85/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/Palak85/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Palak85/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Palak85/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Palak85/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -147,6 +148,7 @@
 | [0496-next-greater-element-i](https://github.com/Palak85/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Palak85/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1207-unique-number-of-occurrences](https://github.com/Palak85/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/Palak85/Leetcode/tree/master/1399-count-largest-group) |
 | [2404-most-frequent-even-element](https://github.com/Palak85/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Palak85/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
