@@ -752,4 +752,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Palak85/Leetcode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Palak85/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
