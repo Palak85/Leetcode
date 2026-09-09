@@ -185,6 +185,7 @@
 | [0390-elimination-game](https://github.com/Palak85/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Palak85/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Palak85/Leetcode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/Palak85/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Palak85/Leetcode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Palak85/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Palak85/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -283,6 +284,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Palak85/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Palak85/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Palak85/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Palak85/Leetcode/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Palak85/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Palak85/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Palak85/Leetcode/tree/master/0709-to-lower-case) |
@@ -435,6 +437,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Palak85/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Palak85/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Palak85/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Palak85/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Palak85/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Palak85/Leetcode/tree/master/1929-concatenation-of-array) |
