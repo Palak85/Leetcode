@@ -764,4 +764,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Palak85/Leetcode/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Palak85/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
